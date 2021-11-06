@@ -1,3 +1,3 @@
 <p align="center">
-<img width="256" height="256" src="./profile/logo.svg" alt="ogen logo">
+<img src="./profile/logo_borderless.svg" alt="ogen logo">
 </p>
