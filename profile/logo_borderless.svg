@@ -1,1 +1,28 @@
-<svg id="main" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 539.38 219.79"><defs><style>.cls-1{fill:url(#gradient);}.cls-2{fill:url(#gradient-2);}.cls-3{fill:url(#gradient-3);}</style><linearGradient id="gradient" x1="369.07" y1="387.73" x2="594.93" y2="387.73" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#01add8"/><stop offset="1" stop-color="#00a29c"/></linearGradient><linearGradient id="gradient-2" x1="130.31" y1="297.17" x2="617.23" y2="297.17" xlink:href="#gradient"/><linearGradient id="gradient-3" x1="279.32" y1="209" x2="669.69" y2="209" xlink:href="#gradient"/></defs><title>logo_borderless</title><g id="Group"><path id="bottom" class="cls-1" d="M594.91,369.52q-1.77,17-1.91,34.45a3.47,3.47,0,0,1-3.43,3.46l-217,2.36a3.49,3.49,0,0,1-3.24-4.86l15.53-36.17a5.23,5.23,0,0,1,3.94-2.68l202.64-.4A3.48,3.48,0,0,1,594.91,369.52Z" transform="translate(-130.31 -190)"/><path id="middle" class="cls-2" d="M617.07,282.08c-4.08,10.65-8.31,21.44-11.28,32.36-.41,1.51-2.41,2.56-4,2.56h-468a3.54,3.54,0,0,1-2.76-5.72l21.08-31.34a5.41,5.41,0,0,1,3.75-1.76l456.6-.84C614.94,277.33,618,279.79,617.07,282.08Z" transform="translate(-130.31 -190)"/><path class="cls-3" d="M669.69,191.7a.9.9,0,0,1-.2.57,401.62,401.62,0,0,0-23.81,34.09,3.44,3.44,0,0,1-2.93,1.64H282.9c-3,0-4.64-3.92-2.83-6.61l19.44-29a8.55,8.55,0,0,1,4.62-2.37H667.65A2.13,2.13,0,0,1,669.69,191.7Z" transform="translate(-130.31 -190)"/></g></svg>
+<svg id="main" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 539.38 219.79">
+    <defs>
+        <style>.cls-1{fill:url(#gradient);}.cls-2{fill:url(#gradient-2);}.cls-3{fill:url(#gradient-3);}</style>
+        <linearGradient id="gradient" x1="369.07" y1="387.73" x2="594.93" y2="387.73" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#01add8">
+                <animate attributeName="stop-color" values="#01add8; #00a29c; #01add8" dur="2s" repeatCount="indefinite"/>
+            </stop>
+            <stop offset="1" stop-color="#00a29c">
+                <animate attributeName="stop-color" values="#00a29c; #01add8; #00a29c" dur="2s" repeatCount="indefinite"/>
+            </stop>
+        </linearGradient>
+        <linearGradient id="gradient-2" x1="130.31" y1="297.17" x2="617.23" y2="297.17" xlink:href="#gradient"/>
+        <linearGradient id="gradient-3" x1="279.32" y1="209" x2="669.69" y2="209" xlink:href="#gradient"/>
+    </defs>
+    <title>logo_borderless</title>
+    <g id="Group">
+        <path id="bottom" class="cls-1"
+              d="M594.91,369.52q-1.77,17-1.91,34.45a3.47,3.47,0,0,1-3.43,3.46l-217,2.36a3.49,3.49,0,0,1-3.24-4.86l15.53-36.17a5.23,5.23,0,0,1,3.94-2.68l202.64-.4A3.48,3.48,0,0,1,594.91,369.52Z"
+              transform="translate(-130.31 -190)"/>
+        <path id="middle" class="cls-2"
+              d="M617.07,282.08c-4.08,10.65-8.31,21.44-11.28,32.36-.41,1.51-2.41,2.56-4,2.56h-468a3.54,3.54,0,0,1-2.76-5.72l21.08-31.34a5.41,5.41,0,0,1,3.75-1.76l456.6-.84C614.94,277.33,618,279.79,617.07,282.08Z"
+              transform="translate(-130.31 -190)"/>
+        <path class="cls-3"
+              d="M669.69,191.7a.9.9,0,0,1-.2.57,401.62,401.62,0,0,0-23.81,34.09,3.44,3.44,0,0,1-2.93,1.64H282.9c-3,0-4.64-3.92-2.83-6.61l19.44-29a8.55,8.55,0,0,1,4.62-2.37H667.65A2.13,2.13,0,0,1,669.69,191.7Z"
+              transform="translate(-130.31 -190)"/>
+    </g>
+</svg>
