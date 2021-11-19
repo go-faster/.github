@@ -3,11 +3,11 @@
     <defs>
         <style>.cls-1{fill:url(#gradient);}.cls-2{fill:url(#gradient-2);}.cls-3{fill:url(#gradient-3);}</style>
         <linearGradient id="gradient" x1="369.07" y1="387.73" x2="594.93" y2="387.73" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#01add8">
-                <animate attributeName="stop-color" values="#01add8; #00a29c; #01add8" dur="2s" repeatCount="indefinite"/>
+            <stop offset="0" stop-color="#31bee0">
+                <animate attributeName="stop-color" values="#31bee0; #77cbc5; #31bee0" dur="5s" repeatCount="indefinite"/>
             </stop>
-            <stop offset="1" stop-color="#00a29c">
-                <animate attributeName="stop-color" values="#00a29c; #01add8; #00a29c" dur="2s" repeatCount="indefinite"/>
+            <stop offset="1" stop-color="#77cbc5">
+                <animate attributeName="stop-color" values="#77cbc5; #31bee0; #77cbc5" dur="1.5s" repeatCount="indefinite"/>
             </stop>
         </linearGradient>
         <linearGradient id="gradient-2" x1="130.31" y1="297.17" x2="617.23" y2="297.17" xlink:href="#gradient"/>
