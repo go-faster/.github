@@ -9,7 +9,7 @@ The Go Faster Team is a group of people united by the love to open source softwa
 - Participate in the development of Go
 - Share knowledge and help others
 
-*Causing performance, assuming Go domination.*
+*Causing performance, asserting Go domination.*
 
 ## Links
 
