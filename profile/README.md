@@ -5,8 +5,9 @@
 The Go Faster Team is a group of people united by the love to open source software and desire to make Go faster.
 
 - Maintain high quality projects
-- Apply knowledge and experience to improve other projects
+- Apply knowledge and experience to improve open source
 - Participate in the development of Go
+- Share knowledge and help others
 
 *Causing performance, assuming Go domination.*
 
