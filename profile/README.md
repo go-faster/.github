@@ -14,4 +14,5 @@ The Go Faster Team is a group of people united by the love to open source softwa
 ## Links
 
 - [Projects](https://go-faster.org/docs/projects/)
-- [Telegram Channel](https://t.me/go_faster_dev)
+- [Telegram Chat](https://t.me/go_faster_dev)
+- [Telegram News Channel](https://t.me/go_faster_news)
