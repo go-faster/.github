@@ -21,9 +21,11 @@ The Go Faster Team is a group of people united by the love to open source softwa
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
 | [go-faster/tail][tail] | High-throughput file tailing with inotify        |
 
+- [Website][web]
 - [Telegram Chat][tg-chat]
 - [Telegram News Channel][tg-news]
 
+[web]: https://go-faster.org/
 [jx]: https://github.com/go-faster/jx "go-faster/jx"
 [ch]: https://github.com/ClickHouse/ch-go "ClickHouse/ch-go"
 [tail]: https://github.com/go-faster/tail "go-faster/tail"
