@@ -16,10 +16,11 @@ The Go Faster Team is a group of people united by the love to open source softwa
 | Project                | Description                                      |
 |:-----------------------|--------------------------------------------------|
 | [ogen][ogen]           | Advanced OpenAPI v3 code generator               |    
-| [gotd][gotd]           | MTProto Telegram client in pure Go               |    
+| [gotd][gotd]           | MTProto Telegram client in pure Go               |
+| [go-riscv][go-riscv]   | Bringing `riscv64` to Go and Kubernetes          |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
-| [go-faster/tail][tail] | High-throughput file tailing with inotify        |
+| [go-faster/tail][tail] | High-throughput file tailing with inotify        |    
 
 - [Website][web]
 - [Telegram Chat][tg-chat]
@@ -31,6 +32,7 @@ The Go Faster Team is a group of people united by the love to open source softwa
 [tail]: https://github.com/go-faster/tail "go-faster/tail"
 [ogen]: https://github.com/ogen-go/ogen "ogen-go/ogen"
 [gotd]: https://github.com/gotd "gotd"
+[go-riscv]: https://github.com/go-riscv "go-riscv"
 
 [clickhouse]: https://clickhouse.com/ "ClickHouse, open-source, high performance columnar OLAP"
 [projects]: https://go-faster.org/docs/projects/
