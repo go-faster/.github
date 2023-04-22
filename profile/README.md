@@ -38,3 +38,8 @@ The Go Faster Team is a group of people united by the love to open source softwa
 [projects]: https://go-faster.org/docs/projects/
 [tg-chat]: https://t.me/go_faster_dev
 [tg-news]: https://t.me/go_faster_news
+
+Our organization is fully non-profit and non-commercial, we do not accept any donations, sponsorships or other financial support,
+nor provide any paid services, development or consulting. We also ensure having no conflicts of interest.
+
+If you want to help, give our project a star, share it with your friends, or contribute.
