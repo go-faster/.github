@@ -20,7 +20,6 @@ The Go Faster Team is a group of people united by the love to open source softwa
 | [go-riscv][go-riscv]   | Bringing `riscv64` to Go and Kubernetes          |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
-| [go-faster/tail][tail] | High-throughput file tailing with inotify        |    
 
 - [Website][web]
 - [Telegram Chat][tg-chat]
