@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://go-faster.org"><img src="./profile/logo_borderless.svg" width="256" height="105" alt="go faster logo"></a>
+<a href="https://go-faster.org"><img src="logo_borderless.svg" width="256" height="105" alt="go faster logo"></a>
 </p>
 
 The Go Faster Team is a group of people united by the love to open source software and desire to make Go faster.
