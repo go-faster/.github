@@ -20,6 +20,7 @@ The Go Faster Team is a group of people united by the love to open source softwa
 | [go-riscv][go-riscv]   | Bringing `riscv64` to Go and Kubernetes          |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
+| [oteldb][oteldb]       | OpenTelemetry observability signal storage       |    
 
 - [Website][web]
 - [Telegram Chat][tg-chat]
@@ -32,6 +33,7 @@ The Go Faster Team is a group of people united by the love to open source softwa
 [ogen]: https://github.com/ogen-go/ogen "ogen-go/ogen"
 [gotd]: https://github.com/gotd "gotd"
 [go-riscv]: https://github.com/go-riscv "go-riscv"
+[oteldb]: https://github.com/oteldb/oteldb "oteldb/oteldb"
 
 [clickhouse]: https://clickhouse.com/ "ClickHouse, open-source, high performance columnar OLAP"
 [projects]: https://go-faster.org/docs/projects/
